@@ -1,7 +1,7 @@
 # Python-code
 
-### Career Foundry student project A4
 ### Instacart Grocery Basket Analysis
+### Career Foundry student project A4
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
 have been fabricated for the purpose of this Achievement.
 #### Objective
